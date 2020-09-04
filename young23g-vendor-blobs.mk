@@ -49,7 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/young23g/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
     vendor/samsung/young23g/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/young23g/proprietary/bin/macloader:system/bin/macloader \
-    vendor/samsung/young23g/proprietary/vendor/firmware/BCM4343A0_001.001.034.0038.0090_ORC_Vivalto-3G_3MC.hcd:system/vendor/firmware/BCM4343A0_001.001.034.0038.0090_ORC_Vivalto-3G_3MC.hcd \
+    vendor/samsung/young23g/proprietary/vendor/firmware/BCM4343A0_001.001.034.0039.0000_Samsung_Young2_TEST_ONLY.hcd:system/vendor/firmware/BCM4343A0_001.001.034.0039.0000_Samsung_Young2_TEST_ONLY.hcd \
     vendor/samsung/young23g/proprietary/etc/nvitem_td.cfg:system/etc/nvitem_td.cfg \
     vendor/samsung/young23g/proprietary/etc/nvitem_w.cfg:system/etc/nvitem_w.cfg \
     vendor/samsung/young23g/proprietary/bin/rild:system/bin/rild \
